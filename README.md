@@ -11,4 +11,4 @@ Identify patterns in rider behavior and provide data-driven recommendations to h
 - Casual usage increases during summer, weekends, and afternoons  
 
 ## Project File
-The full analysis and visualizations are included in the PDF file. And visualization through Tableau in .jpeg file
+The full analysis and visualizations are included in the PDF file. And visualization through Tableau, https://public.tableau.com/app/profile/makda.teshale.gebretsadik/vizzes
